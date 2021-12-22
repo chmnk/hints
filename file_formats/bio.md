@@ -1,7 +1,7 @@
-# MTZ\
+## MTZ
 https://www.ccp4.ac.uk/html/mtzformat.html
 
-# MMCIF\
+## MMCIF
 https://mmcif.wwpdb.org/docs/tutorials/mechanics/pdbx-mmcif-syntax.html
 
 ### Modified residues
