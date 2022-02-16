@@ -1,2 +1,2 @@
 # hints
-Useful hints and scripts
+Useful bookmarks, hints and scripts
