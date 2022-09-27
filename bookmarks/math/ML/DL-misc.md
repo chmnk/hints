@@ -1,3 +1,6 @@
+### When don't we need a bias?
+https://ai.stackexchange.com/questions/27716/when-should-you-not-use-the-bias-in-a-layer
+
 ### Activation functions
 This one is quite illustrative \
 https://mlfromscratch.com/activation-functions-explained/#subscribe
