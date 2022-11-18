@@ -1,5 +1,6 @@
 ## MTZ
-https://www.ccp4.ac.uk/html/mtzformat.html
+https://www.ccp4.ac.uk/html/mtzformat.html \
+https://www.globalphasing.com/buster/wiki/index.cgi?MTZcolumns
 
 ## MMCIF
 https://mmcif.wwpdb.org/docs/tutorials/mechanics/pdbx-mmcif-syntax.html
