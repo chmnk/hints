@@ -18,3 +18,15 @@ https://www.schrodinger.com/sites/default/files/s3/public/python_api/2023-1/core
 - extended\
 https://www.schrodinger.com/sites/default/files/s3/public/python_api/2023-1/cookbook.html#modifying-and-building-structures
 
+### mdtraj
+Trajectory\
+https://mdtraj.org/1.7.2/api/generated/mdtraj.Trajectory.html
+
+Selections\
+https://www.mdtraj.org/1.9.8.dev0/atom_selection.html
+
+Examples\
+https://github.com/mdtraj/mdtraj/tree/master/examples
+
+Example on atom selections\
+https://github.com/mdtraj/mdtraj/blob/master/examples/atom-selection.ipynb
