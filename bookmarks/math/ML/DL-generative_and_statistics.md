@@ -9,3 +9,6 @@ https://lilianweng.github.io/posts/2021-07-11-diffusion-models/
 
 Autoregressive models \
 https://deepgenerativemodels.github.io/notes/autoregressive/
+
+Normalizing flows\
+https://deepgenerativemodels.github.io/notes/flow/
