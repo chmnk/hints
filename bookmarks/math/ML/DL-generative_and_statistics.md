@@ -12,3 +12,6 @@ https://deepgenerativemodels.github.io/notes/autoregressive/
 
 Normalizing flows\
 https://deepgenerativemodels.github.io/notes/flow/
+
+More on ML in general + VAEs, GANs, normalizing flows and diffusion\
+https://education.yandex.ru/handbook/ml/article/vvedenie-v-generativnoe-modelirovanie
