@@ -5,3 +5,5 @@ https://dyakonov.org/2019/09/23/python-%d0%b8-pandas-%d0%b4%d0%b5%d0%bb%d0%b0%d0
 Simple C++ module to speed-up pandas data reading
 
 https://blog.esciencecenter.nl/irregular-data-in-pandas-using-c-88ce311cb9ef
+
+https://pythonspeed.com/datascience
